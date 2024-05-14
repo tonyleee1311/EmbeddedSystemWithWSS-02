@@ -1,0 +1,57 @@
+d speed: 51.20 m/s
+Wind direction:
+Wind angle: 2534.40°
+Wind speed: 0.40 m/s
+Wind direction: S
+Wind angle: 189.10°
+Wind speed: 0.40 m/s
+Wind direction: S-SW
+Wind angle: 191.70°
+Wind speed: 0.40 m/s
+Wind direction: S-SW
+Wind angle: 194.00°
+Wind speed: 0.40 m/s
+Wind direction: S-SW
+Wind angle: 191.40°
+Wind speed: 0.30 m/s
+Wind direction: S
+Wind angle: 187.00°
+Wind speed: 0.30 m/s
+Wind direction: S
+Wind angle: 187.80°
+Wind speed: 0.30 m/s
+Wind direction: S-SW
+Wind angle: 191.90°
+Wind speed: 0.20 m/s
+Wind direction: S-SW
+Wind angle: 201.00°
+Wind speed: 0.20 m/s
+Wind direction: S-SW
+Wind angle: 201.50°
+Wind speed: 0.20 m/s
+Wind direction: S-SW
+Wind angle: 193.30°
+Wind speed: 0.20 m/s
+Wind direction: S
+Wind angle: 184.20°
+Wind speed: 0.20 m/s
+Wind direction: S
+d speed: 2.00 m/s
+Wind direction: SW
+Wind angle: 227.10°
+Wind speed: 2.00 m/s
+Wind direction: E-SE
+Wind angle: 116.60°
+Wind speed: 1.80 m/s
+Wind direction: E-NE
+Wind angle: 60.00°
+Wind speed: 1.80 m/s
+Wind direction: E-NE
+Wind angle: 61.90°
+Wind speed: 1.60 m/s
+Wind direction: E-SE
+Wind angle: 119.50°
+Wind speed: 1.60 m/s
+Wind direction: SW
+Wind angle: 218.30°
+Wind speed: -1227.10 m/s
